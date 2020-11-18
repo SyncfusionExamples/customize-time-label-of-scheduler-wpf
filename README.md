@@ -1,2 +1,1 @@
-# customize-time-label-of-scheduler-wpf
-How to customize the time label of WPF Schedule (Scheduler)
+**[View document in Syncfusion WPF Knowledge base](syncfusion.com/kb/12084/how-to-customize-the-time-label-of-wpf-schedule-scheduler)**
